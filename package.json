@@ -1,0 +1,27 @@
+{
+  "name": "ci3-admin-lte",
+  "version": "1.0.0",
+  "description": "NPM package for CI3-admin-lte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barudo/ci3-admin-lte.git"
+  },
+  "keywords": [
+    "Codeigniter",
+    "AdminLTE",
+    "CI3",
+    "Twitter",
+    "Bootstrap",
+    "4"
+  ],
+  "author": "Justin <justin@vebatech.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barudo/ci3-admin-lte/issues"
+  },
+  "homepage": "https://github.com/barudo/ci3-admin-lte#readme"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "barudo/ci3-admin-lte",
+    "description": "rapid project development with CI3 and andmin-lte",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin",
+            "email": "barudo@gmail.com"
+        }
+    ],
+    "require": {}
+}
